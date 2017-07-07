@@ -1,6 +1,6 @@
 Master: [![Build Status](https://api.travis-ci.org/tz-lom/HSPHP.png?branch=master)](http://travis-ci.org/tz-lom/HSPHP)
 
-# HandlerSocker Library for PHP
+# HandlerSocket Library for PHP
 
 This library provides an API for communicating with the HandlerSocket plugin for
 MySQL compatible databases(MySQL, MariaDB, Percona).
